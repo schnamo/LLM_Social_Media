@@ -2,7 +2,7 @@
 
 ## Overview
 
-A pipeline that retrieves comments of videos to a specified hashtag, translates them into English, and analyses them for topics, needs, and experiences using BERTopic and Llama. 
+A pipeline that retrieves comments of videos to a specified hashtag, translates them into English, and analyses them for topics, needs, and experiences using BERTopic and Llama. Combines quantitative with qualitative analysis.
 
 ## Prompts used with the Llama Model
 
