@@ -20,4 +20,5 @@ A pipeline that retrieves comments of videos to a specified hashtag, translates 
 
 ## How to cite
 
-tbc
+If you find this useful please cite Tumescheit C, Sou D, Nißen M, Kowatsch T, Hastings J. Large Language Models Reveal Menstruation Experiences and Needs on Social Media. Stud Health Technol Inform. 2025 Aug 7;329:748-752. doi: 10.3233/SHTI250940. PMID: 40775958.
+https://doi.org/10.3233/shti250940
